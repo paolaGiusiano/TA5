@@ -1,1 +1,2 @@
 # TA5
+En un nuevo documento HTML, crear un formulario de registro utilizando los tags <form>, <label> e <input>. El formulario debe contar con un input de tipo submit para enviar la información, y un input de tipo reset para restablecer el formulario.
